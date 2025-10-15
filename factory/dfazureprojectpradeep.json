@@ -1,0 +1,9 @@
+{
+	"name": "dfazureprojectpradeep",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bb9d615-e187-47a2-9a24-315adc171d9f",
+		"tenantId": "c3b463cc-c23f-4e54-bdc0-add8e54eb7f1"
+	}
+}
